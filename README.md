@@ -1,3 +1,3 @@
 # test
-my first test project \n
+my first test project 
 welcome
